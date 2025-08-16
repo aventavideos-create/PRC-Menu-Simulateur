@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 457.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #75b557;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_8);
+        mix-blend-mode: lighten;
+        opacity: .13;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #1e1e1c;
+        opacity: .75;
+      }
+
+      .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-8 {
+        letter-spacing: .01em;
+      }
+
+      .cls-9 {
+        font-family: BioSans-Regular, 'Bio Sans';
+        font-size: 30.53px;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-family: BioSans-Bold, 'Bio Sans';
+        font-size: 48.84px;
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        font-family: BioSans-SemiBold, 'Bio Sans';
+        font-size: 28.96px;
+        font-weight: 600;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_8" data-name="Dégradé sans nom 8" x1="480" y1="0" x2="480" y2="457.91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#706f6f"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <rect id="SVGID" class="cls-4" x="45.79" y="380.17" width="68.62" height="45.79" rx="14.85" ry="14.85"/>
+    </clipPath>
+  </defs>
+  <g class="cls-7">
+    <g id="Calque_1" data-name="Calque 1">
+      <g>
+        <path id="Fond_Carte" data-name="Fond Carte" class="cls-3" d="M960,32.08v393.75c0,17.72-14.36,32.07-32.08,32.07H32.07C14.36,457.91,0,443.56,0,425.84V32.08C0,14.36,14.36,0,32.07,0h895.85c17.72,0,32.08,14.36,32.08,32.08Z"/>
+        <path id="Bandeau" class="cls-6" d="M0,118.28V32.07C0,14.35,14.36,0,32.08,0h895.85c17.71,0,32.07,14.35,32.07,32.07v86.21H0Z"/>
+        <g id="Spec">
+          <text class="cls-9" transform="translate(134.77 412.25)"><tspan x="0" y="0">Red Bull Ring</tspan></text>
+        </g>
+        <text class="cls-10" transform="translate(42.47 76.49)"><tspan class="cls-5" x="0" y="0">R</tspan><tspan class="cls-2" x="31.11" y="0">ookie </tspan><tspan class="cls-12" x="165.23" y="0">R</tspan><tspan x="196.54" y="0">a</tspan><tspan class="cls-8" x="223.02" y="0">c</tspan><tspan x="249.24" y="0">e</tspan></text>
+        <g id="Difficulté">
+          <rect id="Couleur_diff" data-name="Couleur diff" class="cls-1" x="784.14" y="43.5" width="130.07" height="37.35" rx="18.67" ry="18.67"/>
+          <text id="Texte_Diff" data-name="Texte Diff" class="cls-11" transform="translate(811.83 70.76)"><tspan x="0" y="0">Facile</tspan></text>
+        </g>
+        <image width="365" height="192" transform="translate(0 144.78) scale(1.08)" xlink:href="E:\ProRaceCafe\Simus\Cartes Contenus\Circuits\RedBull Ring.png"/>
+        <g id="Spec-2" data-name="Spec">
+          <text class="cls-9" transform="translate(774.73 412.25)"><tspan x="0" y="0">Formule 4</tspan></text>
+        </g>
+        <image id="Image_Voiture" data-name="Image Voiture" width="1920" height="1080" transform="translate(418.71 46.44) scale(.31)" xlink:href="E:\ProRaceCafe\Simus\Cartes Contenus\Voitures\Formule 4.png"/>
+        <image id="Logo_Marque" data-name="Logo Marque" width="500" height="500" transform="translate(451.29 144.78) scale(.11)" xlink:href="E:\ProRaceCafe\Simus\Cartes Contenus\Voitures\Marques\F4.png"/>
+        <g class="cls-13">
+          <image id="Drapeau_Constructeur" data-name="Drapeau Constructeur" width="514" height="343" transform="translate(45.79 380.17) scale(.13)" xlink:href="E:\ProRaceCafe\Simus\Cartes Contenus\Voitures\Drapeaux\Autriche.png"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
